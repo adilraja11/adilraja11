@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **adilraja11/adilraja11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,15 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Perkenalkan nama saya **Muhammad Adil Raja Saputra**.
 
-# Halo semua! 
+Saya seorang **Mahasiwa Informatika** di Universitas Diponegoro<!---[Dicoding](https://www.dicoding.com/)-->.
 
-Perkenalkan nama saya **Muhammad Adil Raja Saputra**.\
+Saya tertarik dengan pengembangan aplikasi Android dengan dibekali [sertifikasi dari Dicoding Indonesia](https://www.dicoding.com/certificates/L4PQ375WVPO1).
 
-Saya seorang **Mahasiwa Informatika** di Universitas Diponegoro<!---[Dicoding](https://www.dicoding.com/)-->.\
-
-Saya tertarik dengan pengembangan aplikasi Android dengan dibekali [sertifikasi dari Dicoding Indonesia](https://www.dicoding.com/certificates/L4PQ375WVPO1).\
-
-Saya juga tertarik dengan UX Design dengan dibekali [sertifikasi dari Dicoding Indonesia](https://www.dicoding.com/certificates/JMZV2J503ZN9).\
+Saya juga tertarik dengan UX Design dengan dibekali [sertifikasi dari Dicoding Indonesia](https://www.dicoding.com/certificates/JMZV2J503ZN9).
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/muhammadadilrajasaputra/)ku ya.
