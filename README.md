@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Halo semua! 
+
+Perkenalkan nama saya **Muhammad Adil Raja Saputra**.\
+
+Saya seorang **Mahasiwa Informatika** di Universitas Diponegoro<!---[Dicoding](https://www.dicoding.com/)-->.\
+
+Saya tertarik dengan pengembangan aplikasi Android dengan dibekali [sertifikasi dari Dicoding Indonesia](https://www.dicoding.com/certificates/L4PQ375WVPO1).\
+
+Saya juga tertarik dengan UX Design dengan dibekali [sertifikasi dari Dicoding Indonesia](https://www.dicoding.com/certificates/JMZV2J503ZN9).\
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/muhammadadilrajasaputra/)ku ya.
