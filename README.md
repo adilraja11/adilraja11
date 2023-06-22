@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi, Saya Adil! 👋
 
 <!--
 **adilraja11/adilraja11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,15 +14,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Perkenalkan nama saya **Muhammad Adil Raja Saputra**.
+Perkenalkan nama saya **Muhammad Adil Raja Saputra**! 👋
 
-Saya seorang **Mahasiwa Informatika** di Universitas Diponegoro<!---[Dicoding](https://www.dicoding.com/)-->.
+Saya merupakan seorang **Mahasiwa Informatika** di Universitas Diponegoro yang memiliki minat utama dalam **Software Developer**. Saya telah memperoleh berbagai sertifikasi yang mendukung minat saya.
 
-Saya tertarik dengan pengembangan aplikasi Android dengan dibekali [sertifikasi dari Dicoding Indonesia](https://www.dicoding.com/certificates/L4PQ375WVPO1).
+## Sertifikasi
+- [Belajar Dasar UX Design](https://www.dicoding.com/certificates/JMZV2J503ZN9)
+- [Foundations of User Experience (UX Design)](https://coursera.org/share/8b297fbe3e440001d29fb09b4480f42e)
+- [Belajar Dasar Pemrograman Web](https://www.dicoding.com/certificates/RVZKKY2RQZD5)
+- [Belajar Membuat Front-End Web untuk Pemula](https://www.dicoding.com/certificates/JLX1D7O92Z72)
+- [Belajar Fundamental Front-End Web Development](https://www.dicoding.com/certificates/72ZD822YJZYW)
+- [Menjadi Front-End Web Developer Expert](https://www.dicoding.com/certificates/JLX1D7O92Z72)
+- [Belajar Membuat Aplikasi Back-End untuk Pemula](https://www.dicoding.com/certificates/ERZRGE5DQPYV)
 
-Saya juga tertarik dengan UX Design dengan dibekali [sertifikasi dari Dicoding Indonesia](https://www.dicoding.com/certificates/JMZV2J503ZN9).
+## Tentang Saya
+Saya adalah seorang yang antusias dan bersemangat dalam mengembangkan website yang menarik dan fungsional. Saya memiliki pengetahuan dan keterampilan dalam pengembangan perangkat lunak, serta pemrograman berorientasi objek. Saya selalu terbuka untuk belajar konsep-konsep baru dan siap bekerja sama dalam tim.
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/muhammadadilrajasaputra/)ku ya.
+## Temukan Saya di LinkedIn
+Jika Anda ingin berkenalan lebih lanjut atau berkolaborasi dengan saya, silakan kunjungi [profil LinkedIn](https://www.linkedin.com/in/muhammadadilrajasaputra/) saya.
+
+Terima kasih telah mengunjungi profil saya! 😄
 
 <p align="left">
 <a href="https://github.com/gilangadhan">
