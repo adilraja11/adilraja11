@@ -16,16 +16,7 @@ Here are some ideas to get you started:
 -->
 Perkenalkan nama saya **Muhammad Adil Raja Saputra**! 👋
 
-Saya merupakan seorang **Mahasiwa Informatika** di Universitas Diponegoro yang memiliki minat utama dalam **Software Developer**. Saya telah memperoleh berbagai sertifikasi yang mendukung minat saya.
-
-## Sertifikasi
-- [Belajar Dasar UX Design](https://www.dicoding.com/certificates/JMZV2J503ZN9)
-- [Foundations of User Experience (UX Design)](https://coursera.org/share/8b297fbe3e440001d29fb09b4480f42e)
-- [Belajar Dasar Pemrograman Web](https://www.dicoding.com/certificates/RVZKKY2RQZD5)
-- [Belajar Membuat Front-End Web untuk Pemula](https://www.dicoding.com/certificates/JLX1D7O92Z72)
-- [Belajar Fundamental Front-End Web Development](https://www.dicoding.com/certificates/72ZD822YJZYW)
-- [Menjadi Front-End Web Developer Expert](https://www.dicoding.com/certificates/JLX1D7O92Z72)
-- [Belajar Membuat Aplikasi Back-End untuk Pemula](https://www.dicoding.com/certificates/ERZRGE5DQPYV)
+Saya merupakan seorang **Mahasiwa Informatika** di Universitas Diponegoro yang memiliki minat utama dalam **Software Developer**. 
 
 ## Tentang Saya
 Saya adalah seorang yang antusias dan bersemangat dalam mengembangkan website yang menarik dan fungsional. Saya memiliki pengetahuan dan keterampilan dalam pengembangan perangkat lunak, serta pemrograman berorientasi objek. Saya selalu terbuka untuk belajar konsep-konsep baru dan siap bekerja sama dalam tim.
